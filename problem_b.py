@@ -29,7 +29,6 @@ def vote_average_movies():
     # 담겨진 리스트를 반환하였다.
     return ans_lst
 
-
 if __name__ == '__main__':
     """
     popular 영화목록중 vote_average가 8 이상인 영화목록 출력.
